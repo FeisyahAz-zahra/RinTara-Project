@@ -1,0 +1,520 @@
+{
+    "provinces": [
+        {
+            "id": 1,
+            "title": "Nanggroe Aceh Darussalam",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Meuseujid_Raya_Baiturrahman%2C_Aceh.jpg",
+            "description": "Provinsi Aceh, terletak di ujung barat Pulau Sumatera, Indonesia, adalah tempat yang memikat dengan kekayaan alamnya yang menakjubkan, warisan budayanya yang kaya, dan sejarah yang kuat. Dikenal sebagai \"Serambi Mekkah\" karena peran pentingnya dalam sejarah Islam di Indonesia, Aceh memiliki keindahan pantai yang memukau, gunung yang menjulang tinggi, serta hutan-hutan yang masih alami",
+            "ibuKota": "Banda Aceh",
+            "luas": "57.956,00 km2",
+            "bahasa": "Bahasa Aceh",
+            "situs": "Masjid Raya Baiturrahman, Kerkhof Peucut",
+            "tokoh": "Sultan Iskandar Muda, Cut Nyak Dhien",
+            "budaya":[
+                {
+                    "url" : "https://blog-static.mamikos.com/wp-content/uploads/2021/08/Gambar-Utama-3.jpg",
+                    "title" : "Tari Saman"
+                    
+                },
+                {
+                    "url" : "https://www.ruparupa.com/blog/wp-content/uploads/2020/06/Screen-Shot-2020-06-14-at-23.59.31.png",
+                    "title" : "Rumah Krong Bade"
+                    
+                },
+                {
+                    "url" : "https://upload.wikimedia.org/wikipedia/commons/8/88/COLLECTIE_TROPENMUSEUM_Tamboerijn_TMnr_674-744.jpg",
+                    "title" : "Alat Musik Rapai"
+                    
+                },
+                {
+                    "url" : "https://cdn.rri.co.id/berita/100/images/1691643804191-Suku-Gayo-1/1691643804191-Suku-Gayo-1.jpg",
+                    "title" : "Suku Gayo"
+                 
+                }
+            ]
+        },    
+        {
+            "id": 2,
+            "title": "Sumatera Utara",
+            "image": "https://asset.kompas.com/crops/ump8WgfAI6E2-11-d_ooN5IdowQ=/118x0:914x531/750x500/data/photo/2020/07/08/5f055faa7709f.jpeg",
+            "description": "Sumatera Utara, sebuah provinsi yang terletak di ujung utara Pulau Sumatera, Indonesia, menampilkan pesona alam yang memikat dan kekayaan budaya yang menawan. Dengan ibukota yang bersemayam di kota Medan, provinsi ini memperlihatkan beragam panorama, mulai dari dataran rendah yang subur hingga pegunungan yang menjulang tinggi.",
+            "ibuKota": "Kota Medan",
+            "luas": "72.981,23 km2",
+            "bahasa": "Bahasa Batak",
+            "situs": "Museum Negeri Provinsi Sumatera Utara, Istana Maimun",
+            "tokoh": "Raja Ismail (Tuanku Rao), Sisingamangaraja XII",
+            "budaya": 
+            [
+                {
+                    "url" : "https://asset-a.grid.id//crop/0x0:0x0/700x465/photo/2021/09/12/mengenal-tari-tortor-sejarah-j-20210912110035.jpg",
+                    "title" : "Tari Tor-Tor"
+            
+                },
+                {
+                    "url" : "https://akcdn.detik.net.id/community/media/visual/2022/11/06/rumah-bolon-di-huta-siallagan_169.jpeg?w=700&q=90",
+                    "title" : "Rumah Bolon"
+                },
+                {
+                    "url" : "https://awsimages.detik.net.id/community/media/visual/2023/09/28/gondang-batak_169.jpeg?w=1200",
+                    "title" : "Alat Musik Gondang"
+                },
+                {
+                    "url" : "https://www.batamnews.co.id/foto_berita/2023/05/2023-05-10-tradisi-khas-suku-batak-di-sumatera-utara-menelusuri-warisan-budaya-yang-memikat.jpg",
+                    "title" : "Tradisi Lompat Batu"
+                }
+
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Sumatera Selatan",
+            "image": "https://rfcahyoofficial.files.wordpress.com/2018/04/pulau-kemaro-plmbng.jpg?w=534&h=356",
+            "description": "Provinsi Sumatera Selatan, terletak di bagian selatan Pulau Sumatera, Indonesia, adalah tempat yang mempesona dengan keindahan alamnya yang menakjubkan, keanekaragaman budayanya yang kaya, dan warisan sejarah yang berharga. Di antara perbukitan yang hijau dan sungai yang mengalir deras, provinsi ini menyajikan panorama yang memukau, seperti Danau Ranau yang mempesona dan Taman Nasional Bukit Barisan Selatan yang melindungi keanekaragaman hayati yang luar biasa.",
+            "ibuKota": "Kota Palembang",
+            "luas": "91.592,43 km2",
+            "bahasa": "Bahasa Palembang",
+            "situs": "Benteng Kuto Besak, Museum Sultan Mahmud Badaruddin II",
+            "tokoh": "Sultan Mahmud Badaruddin II, A.M Thalib",
+            "budaya": [
+                        {
+                            "url": "https://asset.kompas.com/crops/RC1u-dXj6prNZfwSopUWd9ZDNZ4=/0x0:750x500/750x500/data/photo/2022/02/23/6215a36cc4c99.jpg",
+                            "title": "Tari Srimpi"
+                        },
+                        {
+                            "url": "https://wonderfulimage.s3-id-jkt-1.kilatstorage.id/1622118118-rumah_limas-2-thumb.jpg",
+                            "title": "Rumah Limas"
+                    
+                        },
+                        {
+                            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU3R-2QdbVxOZEBXv4NR6y0e3MB-CFfu9fNlNXWrmybpsfnpYpGRwVEtBR9Fd9aV7ASiXSGNWD-EiNPvOPhnwIV3kKwS8gcsI8Xe_275inEBGNfkxYwWLC4eR6CEhVC0j1Q_VWlxdwzmk/s640/alat+musik+tradisional+burdah.jpg",
+                            "title": "Alat Musik Tamboerijn"
+                        },
+                        {
+                            "url": "https://ik.imagekit.io/tvlk/blog/2024/03/7RDAo1iB-shutterstock_1043155474.jpg?tr=dpr-2,w-675",
+                            "title": " Budaya Gayo"
+                        }
+                    ]
+
+        },
+        {
+            "id": 4,
+            "title": "Sumatera Barat",
+            "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2022/10/25/taman-mini-indonesia_78361-3075-20221025095931.jpg",
+            "description": "Provinsi Sumatera Barat terletak di bagian barat Pulau Sumatera, Indonesia. Dikenal dengan budaya Minangkabau yang kaya dan unik, Sumatera Barat menawarkan pesona alam yang memukau, warisan budaya yang unik, dan kuliner yang lezat.",
+            "ibuKota": "Kota Padang",
+            "luas": "42.012,89 km2",
+            "bahasa": "Bahasa Minangkabau",
+            "situs": "Istana Pagaruyung, Lubang Jepang Bukittinggi",
+            "tokoh": "Prof. Dr. Mohammad Hatta, Tuanku Imam Bonjol",
+            "budaya": [
+                {
+                    "url" : "https://www.kabarsumbar.com/wp-content/uploads/2021/05/Foto-Ilustrasi-tari-piring-di.jpg",
+                    "title" : "Tari Piring"
+                },
+                {
+                    "url" : "https://akcdn.detik.net.id/community/media/visual/2023/08/09/rumah-adat-sumatera-barat_169.jpeg?w=700&q=90",
+                    "title" : "Rumah Gadang"
+                },
+                {
+                    "url" : "https://akcdn.detik.net.id/community/media/visual/2020/05/10/b6fc136a-dd6f-4452-887c-d85ba69b8080.jpeg?w=800",
+                    "title" : "Alat Musik Talempong "
+                },
+                {
+                    "url" : "https://indonesiakaya.com/wp-content/uploads/2020/10/Festival_Tabuik_1200.jpg",
+                    "title" : "Festival Tabuik"        
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Bengkulu",
+            "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/10/2024/01/24/bengkulu-okeee-2928737172.jpg",
+            "description": "Provinsi Bengkulu terletak di pantai barat Pulau Sumatera, Indonesia, dengan ibu kota Kota Bengkulu, yang dikenal karena keindahan alamnya seperti Pantai Panjang, warisan sejarah seperti Benteng Marlborough, serta budaya unik termasuk upacara adat Tabot, didukung oleh perekonomian berbasis pertanian, perkebunan, dan perikanan.",
+            "ibuKota": "Kota Bengkulu",
+            "luas": "19.919,33 km2",
+            "bahasa": "Bahasa Rejang",
+            "situs": "Benteng Marlborough, Monumen Thomas Parr",
+            "tokoh": "Ahmad Marzuki, Fatmawati",
+            "budaya": 
+            [
+                {
+                    "url" : "https://jurnalnews.co.id/wp-content/uploads/2022/06/images-5-1.jpeg",
+                    "title" : "Tari Andun"
+                },
+                {
+                    "url" : "https://www.lamudi.co.id/journal/wp-content/uploads/2023/11/bengkulu.jpg",
+                    "title" : "Rumah Bubungan Lima"
+                },
+                {
+                    "url" : "https://pariwisataindonesia.id/wp-content/uploads/2020/09/dutawarta.com_.jpg",
+                    "title" : "Dol"
+                },
+                {
+                    "url" : "https://asset.kompas.com/crops/yq2i2ZhzrXriEcDF4HuHgj8hwFA=/24x11:792x523/750x500/data/photo/2017/11/10/2196520407.jpg",
+                    "title" : "Batik Besurek"
+                }
+            ]
+            
+        },
+
+
+        {
+            "id": 6,
+            "title": "Riau",
+            "image": "https://cdn1-production-images-kly.akamaized.net/4gAyJX_hU0S0c8QDpDrB2nsxVjQ=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/770415/original/025515700_1416714876-discover_0501.jpg",
+            "description": "Provinsi Riau terletak di Pulau Sumatera, Indonesia, dikenal dengan kekayaan sumber daya alamnya, seperti hutan tropis, sungai yang luas, serta menjadi pusat industri minyak dan gas, dengan ibu kotanya di Pekanbaru.",
+            "ibuKota": "Kota Pekanbaru",
+            "luas": "Kota Pekanbaru",
+            "bahasa": "Bahasa Melayu Riau",
+            "situs": "Istana Siak Sri Indrapura, Kerinci Seblat National Park",
+            "tokoh": "Sultan Syarif Kasim II, Sultan Mahmud Riayat Syah",
+            "budaya": 
+            [
+                {
+                    "url" : "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1628745472/ads59f7f925a3027_reztfm.jpg",
+                    "title" : "Tari Zapin"
+                },
+                {
+                    "url" : "https://foto.kontan.co.id/_oT5JoLinuQ7_3fOjd2nOnbiFps=/smart/2016/08/15/176674515p.jpg",
+                    "title" : "Rumah Panggung"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5YRhV41K19XUrfhvqqUwKWYGkTktxDjvkfXJk8HQlXYUIVA-CS_sv3nqV1LjFK503l0&usqp=CAU",
+                    "title" : "Genggong Talang Mamak"                   
+                },
+                {
+                    "url" : "https://www.blibli.com/friends-backend/wp-content/uploads/2022/10/B100563-sejarah-baju-kurung-tanggung-Baju-Kurung-Pakaian-Adat-Asli.jpg",
+                    "title" : "Pakaian Adat Kurung"                   
+                }              
+               
+            ]
+            
+        },
+        {
+            "id": 7,
+            "title": "Kepulauan Riau",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Jembatan_Tengku_Fisabilillah_%28jembatan_I%29.jpg",
+            "description": "Provinsi Kepulauan Riau terletak di wilayah timur Indonesia, terdiri dari sejumlah pulau yang tersebar di sekitar Selat Malaka dan Laut Cina Selatan. Wilayah ini terkenal dengan keindahan alamnya yang memukau, termasuk pantai berpasir putih, air laut yang jernih, dan keanekaragaman hayati laut yang luar biasa. Pulau-pulau utamanya antara lain Pulau Batam, Pulau Bintan, dan Pulau Karimun.",
+            "ibuKota": "Kota Tanjung Pinang",
+            "luas": "8.201,72 km2",
+            "bahasa": "Bahasa Melayu Riau",
+            "situs": "Makam Raja Ali Haji, Masjid Raya Sultan Riau",
+            "tokoh": "Raja Haji Fisabilillah, Raja Ali Haji",
+            "budaya": 
+            [
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoZuzqjpfa-vE8Q7Mf_pTR6ximMzRorku-XQ&s",
+                    "title" : "Tari Jogi"
+                },
+                {
+                    "url" : "https://asset.kompas.com/crops/KuUM76gVQ5NUZA_Qbc5V8sV9biY=/12x0:603x394/750x500/data/photo/2020/10/05/5f7a7b80e8bdb.jpg",
+                    "title" : "Rumah Selaso Jatuh Kembar"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvk-zLYU29iEE42Xwe62F8ovEXVtyB9vQELQ&s",
+                    "title" : "Gambang Camar"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bII4mEUuzmeHwVHmFPIZhhJdxFZo3AzZ4Q&s",
+                    "title" : "Festival Pacu Jalur"                   
+                }              
+               
+            ]
+            
+        },
+        {
+            "id": 8,
+            "title": "Jambi",
+            "image": "https://jambiindependent.disway.id/upload/ce35ca430b9805033b03bc650d6f7bfd.jpeg",
+            "description": "Provinsi Jambi terletak di Pulau Sumatera, Indonesia, dikenal dengan keindahan alamnya yang memukau, termasuk hutan hujan tropis, sungai yang indah, serta keanekaragaman hayati yang luar biasa. Ibu kotanya adalah Kota Jambi",
+            "ibuKota": "Kota Jambi",
+            "luas": "50.160,05 km2",
+            "bahasa": "Bahasa Melayu Jambi",
+            "situs": "Candi Muaro Jambi, Museum Negeri Jambi",
+            "tokoh": "Sultan Thaha Syaifuddin, Raden Mattaher",
+            "budaya": 
+            [
+                {
+                    "url" : "https://asset-2.tstatic.net/batam/foto/bank/images/tarian-sekapur-sirih-ditampilan-saat-dibukanya-musabaqoh-tilawatil-quran-mtq.jpg",
+                    "title" : "Tari Sekapur putih"
+                },
+                {
+                    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kajang_Leko_Rumah_adat_Jambi.jpg/1280px-Kajang_Leko_Rumah_adat_Jambi.jpg",
+                    "title" : "Rumah panggung kajang leko"                   
+                },
+                {
+                    "url" : "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/574/2023/09/24/6094d17feb035_1695537661330-2073480485.jpeg",
+                    "title" : "alat musik cargor"                   
+                },
+                {
+                    "url" : "https://kebudayaan.kemdikbud.go.id/wp-content/uploads/2023/06/DSC07367-1068x712.jpg",
+                    "title" : "Kenduri Sko"                   
+                }              
+               
+            ]
+            
+        },
+        {
+            "id": 9,
+            "title": "Lampung",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tugu_Siger.jpg",
+            "description": "Provinsi Lampung adalah salah satu provinsi di Indonesia yang terletak di bagian selatan Pulau Sumatera. Provinsi ini berbatasan langsung dengan Laut Jawa di sebelah timur, Selat Sunda di selatan, serta Provinsi Bengkulu dan Sumatera Selatan di sebelah barat dan utara.",
+            "ibuKota": "Bandar Lampung",
+            "luas": "33,575 km²",
+            "bahasa": "Dialek Nyow (Pepadun) ",
+            "situs": "Batu Berak, Batu Bedil",
+            "tokoh": "Ahmad Hanafiah,Alamsjah Ratoe Perwiranegara",
+            "budaya": 
+            [
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSodOpj0vj-4691aLYGbGQwa-mpPM80BNudM3eCSGmr4JYVEXEsDyoulRY&s=10",
+                    "title" : "Tari Bedana"
+                },
+                {
+                    "url" : "https://akcdn.detik.net.id/visual/2021/04/18/bangunan-khas-adat-lampung-yang-berada-di-tengah-perkotaan_43.jpeg?w=720&q=90",
+                    "title" : "Nuwou Sesat"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzfHcSNgGlqKwf0l8CQtpghzHP-gkQnoKnPRf2USIWDIBQZJYDErJzN4&s=10",
+                    "title" : "Gembus lampung"                   
+                },
+                {
+                    "url" : "https://faktualid.com/wp-content/uploads/2022/08/images-7-7.jpeg",
+                    "title" : "Festival krakatau"                   
+                }              
+               
+            ]
+            
+        },
+        {
+            "id": 10,
+            "title": "Bangka Belitung",
+            "image": "https://media.istockphoto.com/id/1083299796/photo/indonesia-bangka-belitung-province-belitung-island.webp?b=1&s=170667a&w=0&k=20&c=kU4EHCFeKnL-YB3IhENEP43pDrEZClLsrFujSi_d1d8=",
+            "description": "Provinsi Bangka Belitung adalah sebuah provinsi di Indonesia yang terletak di sebelah timur Sumatra. Terdiri dari dua pulau utama, yaitu Pulau Bangka dan Pulau Belitung, provinsi ini dikenal akan keindahan pantainya dan kekayaan alamnya, terutama tambang timah yang melimpah.",
+            "ibuKota": "Pangkal Pinang",
+            "luas": "16,171 km²",
+            "bahasa": "Melayu Bangka Belitung.",
+            "situs": "Museum Timah Indonesia, Rumah Pengasingan Soekarn",
+            "tokoh": "Haji Ahmad Sanusi Hanandjoeddin, depati amir",
+            "budaya": 
+            [
+                {
+                    "url" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc_y8-V92hFTpSYkw98RCuwm3anwb12oVDjxpLTfzrG5hPqjwqRSU3QPnIQJYhWqG-S4jSWkWMmzu2RVdv_3fh-VO6_oPumBydQUaU9hfNYQAfvaTJX45wezH_HFjpUQAID35_ow1ZY80/s1600/taber+(1).jpg",
+                    "title" : "Tari Taber"
+                },
+                {
+                    "url" : "https://blogpictures.99.co/rumah-adat-bangka-belitung.jpg",
+                    "title" : "Rumah adat Rakit Limas"                   
+                },
+                {
+                    "url" : "https://i0.wp.com/tambahpinter.com/wp-content/uploads/2020/07/oakirbin_SulingBangka.jpg",
+                    "title" : "Suling Bangka Belitung"                   
+                },
+                {
+                    "url" : "https://ik.imagekit.io/tvlk/blog/2024/03/NJWUzOCN-image-5.png?tr=dpr-2,w-675",
+                    "title" : "Buang Jung"                   
+                }              
+               
+            ]
+            
+        },
+
+
+
+        {
+            "id": 11,
+            "title": "Kalimantan Barat",
+            "image": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/10/2024/02/12/pontianak-1720486007.jpg",
+            "description": "Wilayah ini dikenal dengan keberagaman budaya dan suku bangsanya, termasuk suku Dayak dan Melayu. Kalimantan Barat memiliki hutan tropis yang luas dan merupakan habitat bagi flora dan fauna yang unik, termasuk orangutan.",
+            "ibuKota": "Kot Pontianak",
+            "luas": "147.307 km²",
+            "bahasa": "Bahasa Melayu Pontianak, Bahasa Dayak",
+            "situs": "Keraton Kadriah, Rumah Radakng",
+            "tokoh": "Opu Daeng Menambon, Sultan Hamid II",
+            "budaya": 
+            [
+                {
+                    "url" : "https://budayaindonesiaaa.wordpress.com/wp-content/uploads/2014/12/tari-radab-rahayu-kalimantan-selatan-tari-radap.jpg",
+                    "title" : "Tari Monong"
+                },
+                {
+                    "url" : "https://media.dekoruma.com/article/2021/04/27085637/rpj1-fasad-rumah-panjang-Kalimantan-Barat.jpg",
+                    "title" : "Rumah Panjang"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD_Hk-1qMLyVGE1Nomx5o3oY1yn0bMhH-xnuvc6dy6GXsLLvgDPSGaCg&s=10",
+                    "title" : "Alat Musik Sapek"                   
+                },
+                {
+                    "url" : "https://asset.kompas.com/data/todaysphoto/foto/73f614858444241bddf143/p_152687482481f-kemeriahan-pekan-gawai-dayak-ke-33-pontianak.jpg",
+                    "title" : "Festival Gawai Dayak"                   
+                }              
+               
+            ]
+            
+        },
+        
+        {
+            "id": 12,
+            "title": "Kalimantan Timur",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm25M9-pV_0ozjrjr7AWqV7eL3b3Hdr_Z_n72c7gJe5ltdAZdqaRf5zeY&s=10",
+            "description": "Kalimantan Timur dikenal sebagai salah satu pusat produksi minyak bumi dan batu bara terbesar di Indonesia. Wilayah ini juga kaya akan hutan tropis dan merupakan habitat bagi berbagai spesies endemik, seperti orangutan dan burung enggang.",
+            "ibuKota": "Samarinda",
+            "luas": "129.067 km²",
+            "bahasa": "Bahasa Banjar, Bahasa Kutai, Bahasa Dayak",
+            "situs": "Makam Sultan Kutai Kertanegara, Museum Mulawarman",
+            "tokoh": "Aji Raden Tumenggung Pranoto",
+            "budaya": 
+            [
+                {
+                    "url" : "https://cdn1.katadata.co.id/media/images/thumb/2021/12/06/Kesenian_hudoq_tari_dayak_dengan_nuansa_mistis-2021_12_06-19_17_23_2e01e7f50e4cd6072fc647e7840acee6_960x640_thumb.jpg",
+                    "title" : "Tari Hudoq"
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX6vGKIA_nPQivVXvd7R8QQGt5YR0bNXEuBoF8NTMLlYdqDDUvlo3MZnC&s=10",
+                    "title" : "Rumah Adat Lamin"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxyKrdf_ufM94GcuJja6kuCmS_qPDYI2DZLYwHzyYSw9pWqIJ1gcKoviD&s=10",
+                    "title" : "Alat Musik Sape"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgV7VWT1cslvofYNUICJabBdnpdHYxq7DeVZI9g-W2cG98AAW1Z2T_znI&s=10",
+                    "title" : "Festival Erau"                   
+                }              
+               
+            ]
+            
+        },
+        
+        {
+            "id": 13,
+            "title": "Kalimantan Selatan",
+            "image": "https://asset.kompas.com/crops/C7HTZr0RDRNxKxVmAN6-mNLo2Bg=/0x0:1000x667/750x500/data/photo/2022/06/26/62b758316726d.jpg",
+            "description": "Provinsi ini juga terkenal dengan keindahan alamnya, termasuk sungai-sungai besar seperti Sungai Barito dan kawasan pegunungan Meratus yang menawarkan pemandangan alam yang memukau. Ekonomi Kalimantan Selatan banyak didukung oleh sektor pertambangan, perkebunan, dan pariwisata.",
+            "ibuKota": "Banjarbaru",
+            "luas": "38.321 km²",
+            "bahasa": "Bahasa Banjar",
+            "situs": "Candi Agung Amuntai, Istana Sultan Suriansyah",
+            "tokoh": "Sultan Suriansyah",
+            "budaya": 
+            [
+                {
+                    "url" : "https://www.infopublik.id/resources/album/bulan-november-2019/117.jpg",
+                    "title" : "Tari Baksa Kembang"
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXqJt3BnT3GA0jZ7xjESk_Hdkv2TG2X2tignxzA0X3ccmBAiEKaCrO83vX&s=10",
+                    "title" : "Rumah Bubungan Tinggi"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmur40S4pXcK_z1hjVq92z5H4nRv2i9FqbKp_WRlp_XJ_bdpzfXhlUujMb&s=10",
+                    "title" : "Alat Musik Panting"                   
+                },
+                {
+                    "url" : "https://rsb.banjarkab.go.id/wp-content/uploads/2022/07/IMG-20220726-WA0032.jpg",
+                    "title" : "Festival Banjar"                   
+                }              
+               
+            ]
+            
+        },
+        
+        {
+            "id": 14,
+            "title": "Kalimantan Tengah",
+            "image": "https://img.freepik.com/free-photo/old-building-with-octagonal-roof_23-2148252824.jpg?t=st=1718504262~exp=1718507862~hmac=a50cb01ab0d94c0eae3b8f8910b7860cf19711823461e4508e08c6cc930d620a&w=740",
+            "description": "Provinsi ini juga memiliki kekayaan alam berupa hutan hujan tropis yang luas dan beragam flora serta fauna endemik. Ekonomi Kalimantan Tengah didukung oleh sektor pertambangan, perkebunan, dan kehutanan, serta pariwisata yang terus berkembang.",
+            "ibuKota": "Palangka Raya",
+            "luas": "157.983 km²",
+            "bahasa": "Bahasa Dayak, Bahasa Ngaju",
+            "situs": "Tumbang Anoi, Istana Kuning",
+            "tokoh": "Tjilik Riwut",
+            "budaya": 
+            [
+                {
+                    "url" : "https://img.antaranews.com/cache/1200x800/2023/03/17/FESTIVAL-TAMBUN-BUNGAI-01.jpg.webp",
+                    "title" : "Tari Tambun Bungai"
+                },
+                {
+                    "url" : "https://img.freepik.com/free-photo/view-from-gubei-water-town_1359-763.jpg?t=st=1718504401~exp=1718508001~hmac=e2a9badfe3f4324433b299922c5af1363173bdeafdcabac724bca9ef78b0036d&w=1060",
+                    "title" : "Rumah Adat Betang"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDR6DLCLsdM1n8QkP0yPSKNRovlyktqoDKa_QrGyWN36wWEyZa00u_IPjq&s=10",
+                    "title" : "Alat Musik Kledi"                   
+                },
+                {
+                    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Jukung_Hias_FBIM_2018_05.JPG/1599px-Jukung_Hias_FBIM_2018_05.JPG",
+                    "title" : "Festival Isen Mulang"                   
+                }              
+               
+            ]
+            
+        },
+        
+        {
+            "id": 15,
+            "title": "Kalimantan Utara",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pn0jjP1q66ATYXzXro9GOiWCMa_ap7tJ_g&usqp=CAU",
+            "description": "Wilayah ini kaya akan sumber daya alam, termasuk hutan tropis, tambang batu bara, dan minyak bumi. Selain itu, budaya suku Dayak dan Tidung sangat menonjol di provinsi ini, dengan berbagai festival adat dan seni tradisional yang kerap digelar untuk melestarikan warisan budaya mereka.",
+            "ibuKota": "Tanjung Selor",
+            "luas": "72.275 km²",
+            "bahasa": "Bahasa Tidung, Bahasa Dayak, Bahasa Banjar",
+            "situs": "Benteng Tidung, Makam Kerajaan Bulungan",
+            "tokoh": "Raden Adipati Aji Kuning",
+            "budaya": 
+            [
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4f2f-XIMO_mbL3AhPxmBSluB-SoB8KX1AynAtK1cGMwRDUhBRwcnrKAg&s=10",
+                    "title" : "Tari Hudog"
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7zX73yukYGYVE0RKeUkl-YVol3M5MyVn_Wcj5-i65qjJKzszWcdLJKbo&s=10",
+                    "title" : "Rumah Baloy"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRa5Gs29MqHaqpEm8zSODlNlJqzuLWBJFHPycWw0-tk530yxeHr3pck83&s=10",
+                    "title" : "Alat Musik Rebab"                   
+                },
+                {
+                    "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXYgDuybL5iPsYi86vM5Bal5ixnMGyxVgcxNkT0PlaTRBWOzZWwr9F9bf&s=10",
+                    "title" : "Festival Irau"                   
+                }              
+               
+            ]
+            
+        },
+        {
+            "id": 20,
+            "title": "Daerah Istimewa Yogyakarta",
+            "image": "https://images.unsplash.com/photo-1552035191-f10bd9fbf35e?q=80&w=1168&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Yogyakarta, sering disebut sebagai Jogja, adalah sebuah provinsi di Indonesia yang terletak di bagian tengah Pulau Jawa. Dikenal sebagai pusat kebudayaan dan pendidikan, Yogyakarta memiliki kekayaan sejarah, tradisi, dan warisan budaya yang kuat.",
+            "ibuKota": "Daerah IstimewaYogyakarta",
+            "luas": "32.82 km²",
+            "bahasa": "Bahasa Jawa",
+            "situs": "Keraton Yogyakarta, Museum Benteng Vredeburg",
+            "tokoh": "Ki Hajar Dewantara, KH Ahmad Dahlan",
+            "budaya": 
+            [
+                {
+                    "url" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKgI8EJ7r4383hNXeqm5tx2kz-im-qzSf4w8Evj0QJLNd3URFxLc0AKHba7-9_uGB6CEAKB9twQjw9asKi_2DR-tp_ZKk4nED15ySnXmg7Nu38nKZc1Z4yrX8m9otQ9hNqDa6LE5M21Yo/w0/prambanan.jpg",
+                    "title" : "Sendratari Ramayana"
+                },
+                {
+                    "url" : "https://4.bp.blogspot.com/-Q9b5QpOPu_8/WLf3N70VlEI/AAAAAAAAAN8/qUQj5j-pGIUMC7FlbN0xjWcj8NOzvOw8wCLcB/s640/budaya-sekatenan.jpg",
+                    "title" : "Sekatenan"                   
+                },
+                {
+                    "url" : "https://3.bp.blogspot.com/-_cY-Rvvo-rQ/WLf3PoKftpI/AAAAAAAAAOE/MWAb-DFcbLM--H4_EkgOdZs8u7PX00y_QCLcB/s640/karawitan-jogja.jpg",
+                    "title" : "Karawitan"                   
+                },
+                {
+                    "url" : "https://2.bp.blogspot.com/-gif1ZboHT4w/WLf3Uxi8OpI/AAAAAAAAAOY/pzP1eax8urgGKUYMgIMVwT-mZmO5j1AfwCLcB/s640/wayang-kulit.jpg",
+                    "title" : "Wayang Kulit"                   
+                }              
+            ]
+        }
+    ]      
+}
+

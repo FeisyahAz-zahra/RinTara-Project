@@ -1,0 +1,186 @@
+
+/* 
+Province
+ */
+.province-detail h2{
+    font-size: 2.4rem;
+}
+
+.province-detail p{
+    font-size: 1.4rem;
+}
+
+.header-content{
+    height: 100vh;
+    position: relative;
+}
+
+.header-content img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    filter: brightness(0.7);
+    z-index: -1;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 60%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.overlay-text h1{
+    font-size: 4rem;
+    text-align: left;
+}
+.overlay-text p {
+    font-size: 1.3rem;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.province-main-content{
+    padding: 50px 60px 20px 60px;
+}
+
+.tentang p{
+    padding-top: 10px;
+    padding-left: 10px;
+    gap: 20px;
+}
+
+.culture{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.culture h2, .history h2{
+    padding-bottom: 30px;
+}
+
+.culture-card-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    
+    align-items: center;
+    justify-items: center;
+}
+
+.culture-card {
+    position: relative;
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+.culture-card img {
+    width: 100%; 
+    height: 100%;
+    object-fit: cover;
+    object-position: center; 
+}
+  
+  .culture-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .culture-info h3,
+  .culture-info p {
+    margin: 5px 0;
+  }
+
+  .history{
+    padding: 0px 30px 20px 30px;
+}
+
+  .province-search-bar {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+  
+  .province-search-bar input {
+    background-color: #f4f4f4;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .province-search-bar button {
+    padding: 8px 15px;
+    background-color: #543310;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+.article{
+    position: relative;
+    overflow: hidden;
+}
+
+.article-list{
+    display: grid;
+    gap: 20px;
+
+}
+
+.article-item {
+    text-decoration: none;
+    color: black;
+    gap: 20px;
+    background-color: #FFFDF5;
+    border: 2px solid black;
+    padding: 20px 30px 20px 30px;
+    border-radius: 5px;
+    position: relative;
+  }
+
+.article-item h3{
+    font-size: 1.8rem;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+.article-item p{
+    font-size: 1.3rem;
+    padding-bottom: 20px;
+}
+
+.article-item a{
+    text-decoration: none;
+    color: black;
+}
+
+.article-item h4{
+    position: relative;
+    font-size: 1.2rem;
+    font-weight: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    white-space: normal;
+}
+
+.notFoundArticle{
+    font: 1rem;
+    text-align: center;
+}

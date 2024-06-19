@@ -375,7 +375,6 @@ Article
   border-radius: 5px;
   object-fit: cover;
   object-position: center;
-  padding-top: 30px;
   
   transition: 0.3s ease-in-out;
 }
@@ -385,6 +384,7 @@ Article
   text-align: center;
   margin-top: 20px;
   font-size: 1.8rem;
+  margin-bottom: 20px;
 }
 
 .article-content p {

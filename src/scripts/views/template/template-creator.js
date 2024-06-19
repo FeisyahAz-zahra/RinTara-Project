@@ -68,7 +68,6 @@ const historyArticleTemplate = (data) => `
             <a href="#/article/${data.id}">
               <h3>${data.title}</h3>
             </a>
-            <p class="release-date">Release date: xx-xx-xxxx</p>
             <h4>${data.body}</h4>
           </div>
           `;

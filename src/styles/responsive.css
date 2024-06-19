@@ -342,6 +342,10 @@
     #hamburger{
       font-size: 30px;
     }
+
+    .app-bar-navigation ul li a {
+      font-size: 1.5rem;
+  }
     .kategori{
       grid-template-columns: repeat(1, 1fr);
     }

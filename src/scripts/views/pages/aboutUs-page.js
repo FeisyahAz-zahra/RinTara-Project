@@ -54,7 +54,7 @@ const AboutUs = {
                   alt="Public Awareness Mission Image"
                   class="mission-image"
               />
-              <figcaption>Kesadaran Public</figcaption>
+              <figcaption>Kesadaran Publik</figcaption>
           </div>
           
       </div>
